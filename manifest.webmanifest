@@ -1,0 +1,19 @@
+{
+  "name": "Cose Aperte",
+  "short_name": "Cose Aperte",
+  "description": "Tutto ciò che hai in sospeso, con il prossimo passo minimo.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#5f7f61",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
